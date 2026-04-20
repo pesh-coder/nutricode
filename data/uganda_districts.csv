@@ -1,0 +1,44 @@
+district,sub_region,lat,lon,primary_staple,primary_staple_code,soil_type,soil_zinc_ppm,soil_phosphorus,total_population,gam_pct,sam_pct,anemia_pct_est,stunting_pct_est,ipc_phase,priority_score
+Gulu,Acholi,2.7809,32.2990,Pearl Millet,0,Ferralsol,0.8,Low,368644,4.8,2.0,46.6,25.0,2,95
+Agago,Acholi,2.9336,33.3833,Pearl Millet,0,Ferralsol,0.9,Low,307235,5.0,2.0,42.0,24.0,2,87
+Lamwo,Acholi,3.5333,32.8000,Pearl Millet,0,Ferralsol,0.7,Low,213156,4.8,2.0,40.0,24.0,2,85
+Moroto,Karamoja,2.5289,34.6667,Sorghum,3,Leptosol,0.5,Low,103639,22.5,4.2,50.0,30.0,3,98
+Kaabong,Karamoja,3.5167,34.1333,Sorghum,3,Leptosol,0.4,Low,264631,24.3,4.2,48.0,29.0,3,97
+Kotido,Karamoja,3.0000,34.0000,Sorghum,3,Leptosol,0.5,Low,219734,19.3,4.9,46.0,28.0,3,94
+Napak,Karamoja,2.1833,34.2500,Sorghum,3,Leptosol,0.6,Low,211830,17.7,6.8,45.0,27.0,3,92
+Nakapiripirit,Karamoja,1.9667,34.7167,Sorghum,3,Leptosol,0.5,Low,111681,14.1,3.2,42.0,25.0,2,83
+Abim,Karamoja,2.7000,33.6667,Sorghum,3,Ferralsol,0.7,Low,144084,4.9,0.7,35.0,22.0,2,72
+Amudat,Karamoja,1.9667,34.9500,Sorghum,3,Leptosol,0.6,Low,203358,11.0,1.8,40.0,24.0,2,79
+Karenga,Karamoja,3.7833,33.7000,Sorghum,3,Leptosol,0.5,Low,100375,25.1,3.8,47.0,28.0,2,93
+Nabilatuk,Karamoja,1.8500,34.5833,Sorghum,3,Leptosol,0.6,Low,136785,11.9,2.5,40.0,24.0,2,78
+Lira,Lango,2.2499,32.8999,Finger Millet,0,Ferralsol,1.2,Medium,487348,5.3,0.0,28.0,22.0,2,80
+Alebtong,Lango,2.2333,33.2833,Finger Millet,0,Ferralsol,1.1,Medium,283509,3.5,1.0,26.0,21.0,2,70
+Apac,Lango,1.9752,32.5333,Finger Millet,0,Ferralsol,1.2,Medium,221962,3.6,2.0,25.0,20.0,2,68
+Kole,Lango,2.4167,32.8000,Finger Millet,0,Ferralsol,1.1,Medium,294301,3.0,0.0,26.0,21.0,2,66
+Oyam,Lango,2.3833,32.4500,Finger Millet,0,Ferralsol,1.3,Medium,477464,2.9,0.0,25.0,26.2,2,74
+Adjumani,West Nile,3.3769,31.7911,Cassava Flour,2,Ferralsol,0.9,Medium,300590,7.4,3.0,32.0,24.0,2,82
+Arua,West Nile,3.0201,30.9110,Cassava Flour,2,Ferralsol,1.0,Medium,544378,3.7,0.0,28.0,22.0,2,75
+Koboko,West Nile,3.4167,31.0000,Cassava Flour,2,Ferralsol,0.9,Medium,271781,3.5,0.3,30.0,23.0,3,77
+Yumbe,West Nile,3.4667,31.2500,Cassava Flour,2,Ferralsol,0.8,Medium,945100,7.4,2.0,31.0,24.0,2,84
+Moyo,West Nile,3.6500,31.7167,Cassava Flour,2,Ferralsol,0.9,Medium,142983,7.9,5.0,30.0,23.0,2,80
+Nebbi,West Nile,2.4833,31.1000,Cassava Flour,2,Ferralsol,1.0,Medium,299398,7.1,2.0,29.0,22.0,2,74
+Zombo,West Nile,2.5167,30.9000,Cassava Flour,2,Ferralsol,0.9,Medium,312621,8.2,2.0,30.0,23.0,2,79
+Terego,West Nile,3.1833,30.9833,Cassava Flour,2,Ferralsol,1.0,Medium,323253,7.2,1.0,28.0,22.0,2,73
+Madi-Okollo,West Nile,2.9833,31.0500,Cassava Flour,2,Ferralsol,1.0,Medium,178051,7.1,2.0,28.0,22.0,2,71
+Bugiri,Busoga,0.5667,33.7500,White Maize,1,Nitisol,1.5,High,480345,2.8,0.0,22.0,19.0,2,55
+Bugweri,Busoga,0.6833,33.7667,White Maize,1,Nitisol,1.4,High,211511,1.8,0.0,20.0,18.0,2,48
+Iganga,Busoga,0.6094,33.4686,White Maize,1,Nitisol,1.5,High,426958,4.3,2.0,23.0,20.0,2,62
+Jinja,Busoga,0.4244,33.2039,White Maize,1,Nitisol,1.6,High,560089,3.0,2.0,18.0,17.0,2,50
+Kamuli,Busoga,0.9478,33.1200,White Maize,1,Nitisol,1.4,Medium,540252,5.5,3.0,24.0,20.0,2,64
+Mayuge,Busoga,0.4614,33.4789,White Maize,1,Nitisol,1.5,High,577563,4.6,1.0,22.0,19.0,2,58
+Namayingo,Busoga,0.2667,33.8833,White Maize,1,Nitisol,1.5,High,266716,5.2,2.0,23.0,20.0,2,60
+Namutumba,Busoga,0.8333,33.6833,White Maize,1,Nitisol,1.4,Medium,311339,2.4,1.0,20.0,18.0,2,52
+Kabarole,Tooro,0.6710,30.2748,White Maize,1,Andosol,2.0,High,367917,4.1,0.0,18.0,17.0,2,48
+Kamwenge,Tooro,0.1833,30.4500,White Maize,1,Andosol,1.8,High,337167,4.5,1.0,20.0,19.0,2,55
+Kasese,Tooro,0.1833,30.0833,White Maize,1,Andosol,1.9,High,853831,3.2,2.0,18.0,18.0,2,52
+Kyegegwa,Tooro,0.5000,31.0500,White Maize,1,Andosol,1.9,High,501120,4.9,1.2,19.0,18.0,2,55
+Kyenjojo,Tooro,0.6231,30.6264,White Maize,1,Andosol,1.9,High,543998,7.7,2.0,20.0,19.0,2,68
+Bundibugyo,Tooro,0.7000,30.0667,White Maize,1,Andosol,2.0,High,264778,2.5,0.0,17.0,17.0,1,42
+Kikuube,Bunyoro,1.3000,30.8500,White Maize,1,Ferralsol,1.4,Medium,379547,5.0,2.0,22.0,20.0,2,62
+Kiryandongo,Bunyoro,1.9167,32.0500,White Maize,1,Ferralsol,1.3,Medium,364872,3.5,0.8,20.0,19.0,2,54
+Isingiro,Ankole,0.8300,30.8000,White Maize,1,Andosol,2.2,High,635077,2.7,0.9,16.0,16.0,1,38

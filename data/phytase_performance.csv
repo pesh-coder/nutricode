@@ -1,0 +1,51 @@
+strain_id,strain_name,source_organism,crop,grain_type_code,initial_phytate_mg,microbe_dose_log,ph_level,temperature_c,contact_time_min,soil_zinc_ppm,phytate_reduction_pct,final_phytate_iron_ratio,final_phytate_zinc_ratio,literature_source
+S001,L.plantarum_TISTR543,Lactobacillus plantarum,Pearl Millet,0,850,6,5.5,35,1440,0.8,45.5,6.2,22.1,Songre-Ouattara_2008
+S002,L.plantarum_TISTR543,Lactobacillus plantarum,Pearl Millet,0,750,6,5.2,35,1440,0.5,48.0,5.9,20.8,Songre-Ouattara_2008
+S003,L.plantarum_TISTR543,Lactobacillus plantarum,White Maize,1,1100,6,5.5,35,1440,0.8,42.0,7.1,24.5,Nout_2009
+S004,L.plantarum_TISTR543,Lactobacillus plantarum,Finger Millet,0,820,7,5.4,35,1440,1.2,50.2,5.4,19.2,Greiner_2006
+S005,B.subtilis_natto,Bacillus subtilis,White Maize,1,1100,7,6.0,40,1440,0.8,62.0,4.8,16.7,Fredrikson_2002
+S006,B.subtilis_natto,Bacillus subtilis,Pearl Millet,0,850,7,6.2,40,1440,0.5,55.0,5.3,18.2,Fredrikson_2002
+S007,B.subtilis_natto,Bacillus subtilis,Finger Millet,0,820,8,5.8,40,1440,1.2,70.0,3.9,13.8,Greiner_2006
+S008,B.subtilis_natto,Bacillus subtilis,White Maize,1,1050,8,5.8,40,1440,0.8,65.0,4.6,15.9,Fredrikson_2002
+S009,A.niger_NRRL3135,Aspergillus niger,Pearl Millet,0,850,5,5.0,37,1440,0.8,88.0,1.8,6.2,Greiner_2006
+S010,A.niger_NRRL3135,Aspergillus niger,White Maize,1,1100,5,5.0,37,1440,0.8,85.0,2.1,7.1,Greiner_2006
+S011,A.niger_NRRL3135,Aspergillus niger,Cassava Flour,2,600,5,5.0,37,1440,0.5,88.2,1.5,5.4,Greiner_2006
+S012,A.niger_NRRL3135,Aspergillus niger,Sorghum,3,780,5,5.0,37,1440,1.0,86.5,1.9,6.5,Greiner_2006
+S013,A.niger_NRRL3135,Aspergillus niger,Finger Millet,0,820,5,5.0,37,1440,1.2,90.0,1.4,5.0,Greiner_2006
+S014,P.kudriavzevii_TY13,Pichia kudriavzevii,Composite Flour,4,900,6,5.5,30,120,0.7,98.0,0.8,3.0,Hellstrom_2010
+S015,P.kudriavzevii_TY13,Pichia kudriavzevii,Pearl Millet,0,850,6,5.3,30,120,0.8,92.0,1.1,4.1,Hellstrom_2010
+S016,P.kudriavzevii_TY13,Pichia kudriavzevii,White Maize,1,1100,6,5.5,30,120,0.8,88.0,1.6,5.8,Hellstrom_2010
+S017,L.plantarum_TISTR543,Lactobacillus plantarum,Cassava Flour,2,600,6,5.2,35,1440,0.5,38.0,6.8,23.2,Songre-Ouattara_2008
+S018,L.plantarum_TISTR543,Lactobacillus plantarum,Sorghum,3,780,6,5.2,35,1440,1.0,40.0,6.5,22.5,Songre-Ouattara_2008
+S019,B.subtilis_natto,Bacillus subtilis,Cassava Flour,2,600,7,6.0,40,1440,0.5,58.0,4.9,17.1,Fredrikson_2002
+S020,B.subtilis_natto,Bacillus subtilis,Sorghum,3,780,7,6.0,40,1440,1.0,60.0,4.7,16.2,Fredrikson_2002
+S021,L.plantarum_TISTR543,Lactobacillus plantarum,Pearl Millet,0,900,5,5.8,38,2880,0.3,35.0,7.8,26.1,Songre-Ouattara_2008
+S022,L.plantarum_TISTR543,Lactobacillus plantarum,White Maize,1,1150,5,5.8,38,2880,0.3,32.0,8.2,27.5,Nout_2009
+S023,B.subtilis_natto,Bacillus subtilis,Pearl Millet,0,900,6,6.2,42,1440,0.3,48.0,6.0,20.8,Fredrikson_2002
+S024,B.subtilis_natto,Bacillus subtilis,Finger Millet,0,780,8,5.7,40,1800,1.4,72.0,3.6,12.8,Greiner_2006
+S025,A.niger_NRRL3135,Aspergillus niger,Pearl Millet,0,900,5,5.0,37,1800,0.3,80.0,2.5,8.5,Greiner_2006
+S026,A.niger_NRRL3135,Aspergillus niger,White Maize,1,1200,6,5.0,37,1800,0.3,82.0,2.3,8.1,Greiner_2006
+S027,P.kudriavzevii_TY13,Pichia kudriavzevii,Finger Millet,0,820,6,5.3,30,180,1.2,95.0,0.9,3.3,Hellstrom_2010
+S028,P.kudriavzevii_TY13,Pichia kudriavzevii,Sorghum,3,780,6,5.5,30,120,1.0,90.0,1.2,4.5,Hellstrom_2010
+S029,P.kudriavzevii_TY13,Pichia kudriavzevii,Cassava Flour,2,600,6,5.3,30,120,0.5,94.0,1.0,3.6,Hellstrom_2010
+S030,MixLB_AN,Aspergillus niger + L.plantarum,Pearl Millet,0,850,6,5.2,37,1440,0.8,85.6,2.0,7.0,Deleu_2019
+S031,MixLB_AN,Aspergillus niger + L.plantarum,White Maize,1,1100,6,5.2,37,1440,0.8,82.0,2.4,8.2,Deleu_2019
+S032,MixLB_AN,Aspergillus niger + L.plantarum,Finger Millet,0,820,7,5.2,37,1440,1.2,89.0,1.6,5.7,Deleu_2019
+S033,MixLB_AN,Aspergillus niger + L.plantarum,Cassava Flour,2,600,6,5.2,37,1440,0.5,86.0,1.9,6.6,Deleu_2019
+S034,MixLB_AN,Aspergillus niger + L.plantarum,Sorghum,3,780,6,5.2,37,1440,1.0,84.0,2.2,7.5,Deleu_2019
+S035,L.plantarum_TISTR543,Lactobacillus plantarum,Pearl Millet,0,820,6,5.4,35,1440,1.2,47.0,6.0,21.5,Songre-Ouattara_2008
+S036,L.plantarum_TISTR543,Lactobacillus plantarum,Finger Millet,0,800,6,5.4,35,1440,1.0,46.0,6.1,21.8,Greiner_2006
+S037,B.subtilis_natto,Bacillus subtilis,Pearl Millet,0,820,7,6.0,40,1440,1.2,68.0,4.2,14.6,Fredrikson_2002
+S038,B.subtilis_natto,Bacillus subtilis,Finger Millet,0,800,7,6.0,40,1440,1.0,65.0,4.4,15.3,Greiner_2006
+S039,A.niger_NRRL3135,Aspergillus niger,Pearl Millet,0,820,5,5.0,37,1440,1.2,89.0,1.6,5.7,Greiner_2006
+S040,A.niger_NRRL3135,Aspergillus niger,Finger Millet,0,800,5,5.0,37,1440,1.0,88.5,1.7,6.0,Greiner_2006
+S041,P.kudriavzevii_TY13,Pichia kudriavzevii,Pearl Millet,0,820,6,5.3,30,120,1.2,93.0,1.0,3.8,Hellstrom_2010
+S042,P.kudriavzevii_TY13,Pichia kudriavzevii,White Maize,1,1050,6,5.5,30,120,0.8,89.0,1.5,5.6,Hellstrom_2010
+S043,MixLB_AN,Aspergillus niger + L.plantarum,Pearl Millet,0,900,6,5.2,37,1800,0.3,78.0,2.8,9.4,Deleu_2019
+S044,MixLB_AN,Aspergillus niger + L.plantarum,White Maize,1,1200,6,5.2,37,1800,0.3,76.0,3.0,10.1,Deleu_2019
+S045,MixLB_AN,Aspergillus niger + L.plantarum,Finger Millet,0,780,7,5.2,37,1800,1.4,87.0,1.8,6.4,Deleu_2019
+S046,L.plantarum_TISTR543,Lactobacillus plantarum,Sorghum,3,820,6,5.3,35,1440,1.0,42.0,6.3,21.8,Songre-Ouattara_2008
+S047,B.subtilis_natto,Bacillus subtilis,Sorghum,3,820,7,6.0,40,1440,1.0,62.0,4.5,15.8,Fredrikson_2002
+S048,A.niger_NRRL3135,Aspergillus niger,Sorghum,3,820,5,5.0,37,1440,1.0,87.0,1.8,6.3,Greiner_2006
+S049,P.kudriavzevii_TY13,Pichia kudriavzevii,Sorghum,3,820,6,5.4,30,120,1.0,91.0,1.1,4.2,Hellstrom_2010
+S050,MixLB_AN,Aspergillus niger + L.plantarum,Sorghum,3,820,6,5.2,37,1440,1.0,85.0,2.0,7.0,Deleu_2019
