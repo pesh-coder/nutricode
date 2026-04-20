@@ -146,7 +146,7 @@ rf_model, xgb_model, metrics, X_train, training_df = get_trained_models()
 col_h1, col_h2 = st.columns([3, 1])
 with col_h1:
     st.markdown(
-        f'<div class="section-tag">FUTURE MAKERS HACKATHON 2026  ·  NATIONAL SCIENCE WEEK</div>',
+        f'<div class="section-tag"></div>',
         unsafe_allow_html=True
     )
     st.markdown(
