@@ -670,6 +670,6 @@ st.markdown(f"""
 We are not asking communities to change what they eat. We are using AI to change what they get out of it.
 </span>
 <br><br>
-<b>NutriCode Uganda</b> · Future Makers Hackathon 2026 · Makerere AI Innovation Academy
+<b>NutriCode Uganda</b>
 </div>
 """, unsafe_allow_html=True)
