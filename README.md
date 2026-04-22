@@ -46,7 +46,7 @@ The app opens at `http://localhost:8501`.
 
 ### Step 1 — Push this folder to GitHub
 
-1. Go to https://github.com/new and create a new **public** repository named `nutricode-uganda`
+1. Go to https://github.com/new and create a new **public** repository named `nutricode`
 2. On your machine, inside the `prototype/` folder:
    ```bash
    git init
@@ -60,7 +60,7 @@ The app opens at `http://localhost:8501`.
 ### Step 2 — Deploy on Streamlit Cloud
 
 1. Go to https://share.streamlit.io
-2. Sign in with your GitHub account
+2. Sign in with your GitHub accoun
 3. Click **"New app"**
 4. Select your `nutricode-uganda` repository
 5. Set:
@@ -131,7 +131,7 @@ Performance metrics are displayed in the "Data & Method" tab of the app.
 
 ---
 
-## Important honest framing
+## Important to note
 
 This prototype demonstrates **predictive modelling from published literature**. It is not a validated clinical intervention. The next step is:
 
@@ -146,12 +146,12 @@ The hackathon prototype is Phase 0. Everything after requires the partnership, f
 
 ## Team
 
-**NutriCode Uganda** is built under the institutional umbrella of the Makerere University AI Innovation Academy.
+**NutriCode Uganda** is built by;
 
-- **Team Lead** — AI and Software (Co-founder, SIMU)
-- **Operations & Community Engagement Lead** (Co-founder, SIMU)
-- **Food Scientist** (finalizing)
-- **Data Analyst** (finalizing)
+- **Team Lead** — AI and Software (Patience Sitati)
+- **Software/AI Engineer** (Immaculate Kaitesi)
+- **Food Nutritionist** (Amucu Esther)
+- **Data Scientist** (Joel Mwaka)
 
 ---
 
